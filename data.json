@@ -1,0 +1,32 @@
+{
+  "jadwal": {
+    "senin": [
+      "18:20 - PIK402 - Komputer dan Masyarakat (Pak Sutajaya)",
+      "20:01 - PIK403 - Mobile Computing (Pak Muhamad Fadhly)"
+    ],
+    "selasa": [
+      "18:20 - BIL401 - Desain dan Pemrograman Berorientasi Objek (Pak Ihsan Maulana)",
+      "20:01 - PIK401 - Bahasa Inggris Lanjutan (Bu Indah Lusita)"
+    ],
+    "rabu": [
+      "18:20 - PIK405 - Komputer Grafik (Pak Adhy Rifki Setiawan)"
+    ],
+    "kamis": [
+      "18:20 - PIK404 - Machine Learning (Bu Dewi Yuliana)"
+    ],
+    "jumat": [
+      "18:20 - PIK406 - Sistem Kontrol (Pak Fadhli Luthfiansyah)"
+    ]
+  },
+  "tugas": [
+    {
+      "judul": "laporan sistem kontrol",
+      "deadline": "malam ini"
+    }
+  ],
+  "quotes": [
+    "💭 'Jangan takut gagal, takutlah untuk berhenti mencoba.'",
+    "💡 'Langkah kecil hari ini adalah fondasi besar untuk esok.'",
+    "🌸 'Kamu bisa lebih dari yang kamu kira.'"
+  ]
+}
